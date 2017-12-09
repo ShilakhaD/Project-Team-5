@@ -4,3 +4,5 @@
 
 We are using raspberry pi as our cental console to control all smart devices in a home unit.
 Home Assistant runs on Python.
+
+123
